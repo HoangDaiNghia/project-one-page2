@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.main {
+    background: url('/assets/img/bac.jpg') top center / cover no-repeat;
+    color: #fff;
+    width: 1033px;
+    height: 317px;
+    margin: 100px auto;
+    text-align: center;
+    /* opacity: 0.8; */
+}
+
+
+.hed {
+    padding: 50px 0px;
+}
+
+
+.text {
+    margin: 10px 0px 78px;
+}
+
+
+.btn {
+    text-decoration: none;
+    padding: 18px 15px;
+    background-color: red;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+
+.btn:hover {
+    background-color: #ccc;
+    color: #000;
+}
